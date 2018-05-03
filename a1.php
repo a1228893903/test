@@ -1,2 +1,6 @@
 
 wdjjjdjdi
+
+mai()
+{
+}
