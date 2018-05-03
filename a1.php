@@ -1,6 +1,6 @@
 
 wdjjjdjdi
 
-mai()
+main()
 {
 }
