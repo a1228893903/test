@@ -4,3 +4,7 @@ main()
 {
 }
 test
+test
+{
+
+}
